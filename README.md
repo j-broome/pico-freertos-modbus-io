@@ -53,4 +53,3 @@ Windows:    https://www.modbustools.com/download.html
 ### Modbus slave simulator: Modbus Slave
 
 Windows:    https://www.modbustools.com/download.html
-"# pico-freertos-modbus-io" 
