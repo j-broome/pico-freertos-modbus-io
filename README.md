@@ -44,7 +44,7 @@ PCB reference design or purchase: broome.jordan@protonmail.com
 
 ![Utility](./images/modbus_poll.png)
 
-## Recommended Modbus Master and Slave testing tools for Linux and Windows
+## Recommended Modbus Master and Slave testing tools for Windows
 
 ### Modbus master simulator: Modbus Poll
 
