@@ -1,4 +1,4 @@
-# Modbus RTU Master and Slave library for Raspberry Pi Pico based on the C++ SDK and FreeRTOS
+# FreeRTOS / Modbus RTU Master and Slave / Raspberry Pi Pico (RP2040)
 
 Project: Modbus RTU slave running on UART port 0 at a baud rate of 921600.
 
